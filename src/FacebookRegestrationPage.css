@@ -1,0 +1,123 @@
+
+
+.regestration-page-container{
+    text-align: center;
+    background-color:#ffffff;
+    height: 100vh;
+}
+
+.regestration-page-container b{
+
+    color:  #1877f2;
+    font-size: 55px;
+}
+
+.form-container{
+    padding: 10px;
+    box-shadow: 6px 8px 25px rgba(0, 0, 0, 0.1);
+    border-radius: 8px ;
+    text-align: center;
+
+
+    /* margin: 0px 0px 20px 80px; */
+    justify-content: center;
+    align-items: center;
+    width: 470px;
+    margin: 20px 0px 0px 550px ;
+}
+
+.form-container strong{
+    font-size: 25px;
+}
+
+.form-container p{
+margin: 0px 0px 0px 0px;
+
+}
+
+.form-input input{
+    margin:0px 10px 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 7px;
+    
+}
+
+.date-of-birth{
+    font-size: 12px;
+    margin-right: 330px;
+    margin-bottom: 3px;
+}
+
+.select-container{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 12px;
+    
+}
+.select-container select{
+    border-radius: 5px;
+    padding: 7px;
+    width: 125px;
+    /* margin-right: 30px; */
+    margin: 0px 0px 0px 19px;
+   
+}
+.Gender{
+    font-size: 12px;
+    margin-right: 360px;
+    margin-bottom: 3px;
+}
+.radio-container{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 12px;
+}
+.radio-container .check-box1{
+    border: 0.4px solid black ;
+    border-radius: 5px;
+    padding: 7px;
+    width: 125px;
+    /* margin-right: 30px; */
+    margin: 0px 0px 0px 19px;
+}
+
+.radio-container .check-box2{
+    border: 0.4px solid black ;
+    border-radius: 5px;
+    padding: 7px;
+    width: 125px;
+    /* margin-right: 30px; */
+    margin: 0px 0px 0px 19px;
+}
+.radio-container .check-box3{
+    border: 0.4px solid black ;
+    border-radius: 5px;
+    padding: 7px;
+    width: 125px;
+    /* margin-right: 30px; */
+    margin: 0px 0px 0px 19px;
+}
+.radio-container input{
+    margin-left: 30px;
+}
+
+.form-input1 input{
+    width: 93%;
+    padding: 8px;
+    margin: 8px 0px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.small{
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+.small1{
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
